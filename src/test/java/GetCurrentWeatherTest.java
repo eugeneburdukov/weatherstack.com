@@ -1,4 +1,4 @@
-package test.java.currentweathertest;
+package test.java;
 
 import com.jayway.restassured.response.Response;
 import entity.Location;

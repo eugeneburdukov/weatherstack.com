@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test name="myTest">
         <classes>
-            <class name="test.java.currentweathertest.GetCurrentWeatherTest" />
+            <class name="test.java.GetCurrentWeatherTest" />
         </classes>
     </test>
 </suite>
