@@ -1,3 +1,5 @@
+package requestutils;
+
 public enum ForeCastTypes {
     CURRENT("http://api.weatherstack.com/current"),
     HISTORICAL("http://api.weatherstack.com/historical"),
