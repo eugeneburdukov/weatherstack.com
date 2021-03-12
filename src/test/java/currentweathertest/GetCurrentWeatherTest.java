@@ -1,12 +1,10 @@
-package test.java.currentweathertests;
+package test.java.currentweathertest;
 
 import com.jayway.restassured.response.Response;
-import entity.Current;
 import entity.Location;
 import entity.Result;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.testng.asserts.Assertion;
 import requestutils.ForeCastTypes;
 import requestutils.RequestsUtils;
 import requestutils.UserCredentials;
