@@ -20,7 +20,7 @@ import java.util.Map;
     & query = New York
      */
 
-public class GetCurrentWeatherTests extends RequestsUtils {
+public class GetCurrentWeatherTest extends RequestsUtils {
     Map<String, String> requestParameters = new HashMap<>();
 //    String uri = "http://api.weatherstack.com/current";
 
