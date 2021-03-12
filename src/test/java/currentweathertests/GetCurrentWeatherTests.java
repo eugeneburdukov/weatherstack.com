@@ -1,4 +1,4 @@
-package currentweathertests;
+package test.java.currentweathertests;
 
 import com.jayway.restassured.response.Response;
 import entity.Current;
